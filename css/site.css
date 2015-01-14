@@ -170,12 +170,18 @@ h1, h2, h3, h4, h5, h6 {
 	height: 35px;
 	width: 100%
 }
+
+#downloads .filter-panel .btn {
+  width: 120px;
+}
 #downloads .filter-panel > #filter-reset {
   float: left;
   margin-right: 15px;
+  margin-bottom: 10px;
 }
 #downloads .filter-panel > .dropdown {
 	margin-right: 15px;
+  margin-bottom: 10px;
 }
 
 #downloads .filter-panel > .dropdown:last-child {
@@ -190,6 +196,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #downloads .filter-panel > #filter-archive {
   float:left;
+  margin-bottom: 10px;
 }
 
 #downloads .filter-content {
@@ -213,7 +220,8 @@ h1, h2, h3, h4, h5, h6 {
 	float:left;
   text-align: left;
 	display: block;
-  margin: 0!important; 
+  margin: 0!important;
+  min-width: 230px; 
 }
 
 #downloads .device .name > small {
