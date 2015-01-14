@@ -63,83 +63,125 @@
       <li class="device google phone cm11 pa46">
       	<p class="name">Google Nexus 5
       	<br/><small>hammerhead</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=11297" target="_blank" type="button" class="btn btn-primary"> Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/google-nexus-5/development/rom-codename-lungo-t2615861" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=11297" target="_blank" type="button" class="btn btn-primary"> Download</a>
+        </div><!--/.btn-group -->  
       </li><!--/.device -->
 
       <li class="device google tablet cm11 pa46">
         <p class="name">Google Nexus 7 (Wi-Fi, 2013 version)
       	<br/><small>flo</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=8303" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2462694" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=8303" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
 
       <li class="device google tablet cm11 pa46">
       	<p class="name">Google Nexus 7 (4G, 2013 version)
       	<br/><small>deb</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=8303" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2517989" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=8303" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
 
       <li class="device google phone cm11 pa46">
       	<p class="name">Google Nexus 4
       	<br/><small>mako</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=4927" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/nexus-4/development/rom-codename-lungo-t2272539" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=4927" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
 
-      <div class="device google tablet cm11 pa46">
+      <li class="device google tablet cm11 pa46">
       	<p class="name">Google Nexus 7 (Wi-Fi, 2012 version)
       	<br/><small>grouper</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=1744" target="_blank" type="button" class="btn btn-primary">Download</a>
-      </div><!--/.device -->
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2027780" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=1744" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
+      </li><!--/.device -->
 
       <li class="device google tablet cm11 pa46">
       	<p class="name">Google Nexus 7 (GSM, 2012 version)
       	<br/><small>tilapia</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=1744" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2027780" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=1744" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
 
       <li class="device google tablet cm11 pa46">
       	<p class="name">Google Nexus 10
       	<br/><small>manta</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=6113" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2355800" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=6113" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
       
       <li class="device motorola phone cm11">
       	<p class="name">Motorola Moto G (4G)
       	<br/><small>peregrine</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=12714" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/moto-g/4g-development/rom-codename-lungo-t2867100" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=12714" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li>
 
       <li class="device motorola phone cm11">
       	<p class="name">Motorola Moto X (Unified)
       	<br/><small>ghost</small></p>
-      	<a href="https://www.androidfilehost.com/?w=files&flid=19409" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/moto-x/development/rom-codename-lungo-t2887305" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=19409" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
 
       <li class="device motorola phone cm11">
       	<p class="name">Motorola Moto G
       	<br/><small>falcon</small></p>
-      	<a href="https://www.androidfilehost.com/?w=files&flid=12714" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2674669" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=12714" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
       <li class="device oneplus phone cm11 pa46">
       	<p class="name">OnePlus One
       	<br/><small>bacon</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=17046" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2789491" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=17046" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li>
       <li class="device oppo phone cm11 pa46">
       	<p class="name">Oppo Find 7 (A/S)
       	<br/><small>find7</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=17045" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/find-7/find7-development/rom-codename-lungo-t2899762" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=17045" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
 
       <li class="device oppo phone cm11 pa46">
       	<p class="name">Oppo N1
       	<br/><small>n1</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=12745" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2711335" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=12745" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
 
       <li class="device oppo phone cm11 pa46">
       	<p class="name">Oppo Find 5
       	<br/><small>find5</small></p>
-        <a href="https://www.androidfilehost.com/?w=files&flid=8647" target="_blank" type="button" class="btn btn-primary">Download</a>
+        <div class="btn-group pull-right">
+          <a href="http://forum.xda-developers.com/showthread.php?t=2481875" target="_blank" type="button" class="btn btn-primary"> XDA Forum</a>
+          <a href="https://www.androidfilehost.com/?w=files&flid=8647" target="_blank" type="button" class="btn btn-primary">Download</a>
+        </div><!--/.btn-group -->
       </li><!--/.device -->
     </div><!--/.filter-content -->
   </div><!--/#downloads -->
