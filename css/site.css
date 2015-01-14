@@ -1,0 +1,255 @@
+/** Default Link & Icon Colors
+ Blue: #4285f4
+ **/
+@import url(//fonts.googleapis.com/css?family=RobotoDraft:300,500,700);
+@import url(material-icons.css);
+@import url(socialmedia-icons.css);
+
+/* General */
+
+* {
+	border-radius: 0 !important;
+}
+
+html {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+body {
+	background: #FFF;
+	color: #686868;
+	font-family: "RobotoDraft", Arial, sans-serif;
+	font-weight: 300;
+	height: 100%;
+	width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 400;
+}
+
+.row {
+	height: 100%;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.head-spacing {
+	height: 48px;
+}
+
+::selection {
+	background: #4285F4;
+	color: #FFF;
+}
+
+/* Mobile Sidebar */
+.navbar {
+	margin-bottom: 0px;
+}
+
+/* Sidebar */
+#sidebar {
+	background-color: #15294e;
+	background-image: url('../img/sidebar_bg.png');
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	box-shadow: 5px 0px 5px 0px rgba(50, 50, 50, 0.5);
+	color: #FFF;
+	min-height: 100%;
+	width: 280px;
+}
+
+.sidebar-brand {
+	width: 100%;
+	height: auto;
+	padding: 30px 0 25px 0;
+}
+
+#sidebar ul.nav {
+	text-align: left;
+}
+
+#sidebar .nav > li > a {
+	color: #FFF;
+	margin: 0 -15px;
+	padding: 10px 30px;
+}
+
+#sidebar .nav > li > a:hover {
+	color: #686868;
+}
+
+#sidebar .social-media {
+  position: absolute;
+  bottom: 5px;
+  left:0;
+}
+
+#sidebar .social-media > .csmb-flat {
+  margin: 10px 12px;
+}
+
+#content-wrapper {
+	overflow-y: scroll !important;
+	height: 100%;
+	padding: 0 0;
+}
+
+/* Header */
+#header {
+	margin: 0;
+	text-align: center;
+	margin-bottom: 35px !important;
+}
+
+#header h3 {
+	margin-top: 0px;
+	vertical-align: middle;
+	padding: 2px 0;
+}
+
+#header small {
+	font-weight: 300;
+}
+
+/* Features */
+#features {
+	margin: 0;
+	text-align: center;
+	margin-bottom: 35px !important;
+}
+
+#features .feature {
+	margin-bottom: 35px;
+}
+
+#features .feature:last-child {
+	margin-bottom: 0;
+}
+
+#features .feature > .text {
+	height: auto;
+	padding: 0 15px;
+	float: left;
+}
+
+#features .feature:nth-child(even) > .text {
+	float: right;
+}
+
+#features .feature > h3 {
+	color: #000;
+	text-align: left;
+}
+
+#features .feature > p {
+	text-align: left;
+}
+
+#features [class^="mdi-"] {
+	color: #337ab7;
+	font-size: 9em;
+	float: right;
+}
+
+#features .feature:nth-child(even) > [class^="mdi-"] {
+	float: left;
+}
+
+/* Downloads */
+#downloads {
+	margin-bottom: 35px !important;
+}
+
+#downloads .filter-panel {
+	height: 35px;
+	width: 100%
+}
+#downloads .filter-panel > #filter-reset {
+  float: left;
+  margin-right: 15px;
+}
+#downloads .filter-panel > .dropdown {
+	margin-right: 15px;
+}
+
+#downloads .filter-panel > .dropdown:last-child {
+	margin-right: 0px;
+}
+
+#downloads .filter-panel .dropdown-menu li > a.filter.active {
+	color: #fff;
+	background-color: #286090;
+	border-color: #204d74;
+}
+
+#downloads .filter-panel > #filter-archive {
+  float:left;
+}
+
+#downloads .filter-content {
+	margin-top: 20px;
+}
+
+#downloads .device {
+	display: none;
+	text-decoration: none;
+	overflow: hidden;
+  width:100%;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+#downloads .device:first-child {
+  margin-top:0;
+}
+
+#downloads .device > .name {
+	float:left;
+  text-align: left;
+	display: block;
+  margin: 0!important; 
+}
+
+#downloads .device .name > small {
+	color: #999;
+}
+
+#downloads .device > .btn {
+  float: right;
+  padding: 9px 18px;
+}
+
+/* @media Qeuries */
+@media (min-width: 768px) {
+	#content-wrapper {
+		padding: 0 30px;
+	}
+}
+
+
+/* Helper Classes */
+.separator {
+	display: block;
+	width: 100%;
+	height: 1px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #EBEBEB;
+}
+
+.col-center {
+	margin: 0 auto !important;
+	display: block;
+	float: none;
+}
+
+.csmb-round {
+  border-radius: 50%!important;
+}
+
