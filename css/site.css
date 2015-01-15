@@ -161,49 +161,49 @@ h1, h2, h3, h4, h5, h6 {
 	float: left;
 }
 
-/* Downloads */
-#downloads {
+/* Devices */
+#devices {
 	margin-bottom: 35px !important;
 }
 
-#downloads .filter-panel {
+#devices .filter-panel {
 	height: 35px;
 	width: 100%
 }
 
-#downloads .filter-panel .btn {
+#devices .filter-panel .btn {
   width: 120px;
 }
-#downloads .filter-panel > #filter-reset {
+#devices .filter-panel > #filter-reset {
   float: left;
   margin-right: 15px;
   margin-bottom: 10px;
 }
-#downloads .filter-panel > .dropdown {
+#devices .filter-panel > .dropdown {
 	margin-right: 15px;
   margin-bottom: 10px;
 }
 
-#downloads .filter-panel > .dropdown:last-child {
+#devices .filter-panel > .dropdown:last-child {
 	margin-right: 0px;
 }
 
-#downloads .filter-panel .dropdown-menu li > a.filter.active {
+#devices .filter-panel .dropdown-menu li > a.filter.active {
 	color: #fff;
 	background-color: #286090;
 	border-color: #204d74;
 }
 
-#downloads .filter-panel > #filter-archive {
+#devices .filter-panel > #filter-archive {
   float:left;
   margin-bottom: 10px;
 }
 
-#downloads .filter-content {
+#devices .filter-content {
 	margin-top: 20px;
 }
 
-#downloads .device {
+#devices .device {
 	display: none;
 	text-decoration: none;
 	overflow: hidden;
@@ -212,11 +212,11 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 6px;
 }
 
-#downloads .device:first-child {
+#devices .device:first-child {
   margin-top:0;
 }
 
-#downloads .device > .name {
+#devices .device > .name {
 	float:left;
   text-align: left;
 	display: block;
@@ -224,15 +224,15 @@ h1, h2, h3, h4, h5, h6 {
   min-width: 230px; 
 }
 
-#downloads .device .name > small {
+#devices .device .name > small {
 	color: #999;
 }
 
-#downloads .device .btn-group >.btn:first-child {
+#devices .device .btn-group >.btn:first-child {
   margin-right: 10px;
 }
 
-#downloads .device .btn-group >.btn {
+#devices .device .btn-group >.btn {
   padding: 9px 18px;
 }
 

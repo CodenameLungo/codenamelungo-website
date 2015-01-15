@@ -22,7 +22,7 @@
     <span class="separator"></span>
   </div><!--/#header -->
         
-  <div class="col-sm-12" id="downloads">
+  <div class="col-sm-12" id="devices">
     <div class="filter-panel">
       <button id="filter-reset" type="button" class="btn btn-primary">All Devices</button>
     	<div class="dropdown pull-left">
@@ -55,6 +55,7 @@
         <ul class="dropdown-menu" role="menu" aria-labelledby="type-menu">
           <li><a class="filter" data-filter=".cm11">CM11</a></li>
           <li><a class="filter" data-filter=".pa46">PA4.6</a></li>
+          <li><a class="filter" data-filter=".cm102">CM10.2</a></li>
         </ul>
      </div><!--/.dropdown -->
      <a id="filter-archive" href="http://bit.ly/cnlarchive" target="_blank" type="button" class="btn btn-primary">Archives</a>
@@ -69,7 +70,7 @@
         </div><!--/.btn-group -->  
       </li><!--/.device -->
 
-      <li class="device google tablet cm11 pa46">
+      <li class="device google tablet cm11 pa46 cm102">
         <p class="name">Google Nexus 7 (Wi-Fi, 2013 version)
       	<br/><small>flo</small></p>
         <div class="btn-group pull-right">
@@ -78,7 +79,7 @@
         </div><!--/.btn-group -->
       </li><!--/.device -->
 
-      <li class="device google tablet cm11 pa46">
+      <li class="device google tablet cm11 pa46 cm102">
       	<p class="name">Google Nexus 7 (4G, 2013 version)
       	<br/><small>deb</small></p>
         <div class="btn-group pull-right">
@@ -96,7 +97,7 @@
         </div><!--/.btn-group -->
       </li><!--/.device -->
 
-      <li class="device google tablet cm11 pa46">
+      <li class="device google tablet cm11 pa46 cm102">
       	<p class="name">Google Nexus 7 (Wi-Fi, 2012 version)
       	<br/><small>grouper</small></p>
         <div class="btn-group pull-right">
@@ -105,7 +106,7 @@
         </div><!--/.btn-group -->
       </li><!--/.device -->
 
-      <li class="device google tablet cm11 pa46">
+      <li class="device google tablet cm11 pa46 cm102">
       	<p class="name">Google Nexus 7 (GSM, 2012 version)
       	<br/><small>tilapia</small></p>
         <div class="btn-group pull-right">
@@ -114,7 +115,7 @@
         </div><!--/.btn-group -->
       </li><!--/.device -->
 
-      <li class="device google tablet cm11 pa46">
+      <li class="device google tablet cm11 pa46 cm102">
       	<p class="name">Google Nexus 10
       	<br/><small>manta</small></p>
         <div class="btn-group pull-right">
