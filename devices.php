@@ -6,7 +6,7 @@
   </ul><!--/.mav-->
   <div class="social-media">
     <a href="https://www.facebook.com/codenamelungonet" target="_blank" class="csmb-flat csmb-round facebook" data-toggle="tooltip" data-placement="top" title="Facbook"></a>
-    <a href="https://plus.google.com/+CodenamelungoNet" target="_blank" class="csmb-flat csmb-round gplus" data-toggle="tooltip" data-placement="top" title="Google+"></a>
+    <a href="https://plus.google.com/+CodenamelungoNet" rel="publisher" target="_blank" class="csmb-flat csmb-round gplus" data-toggle="tooltip" data-placement="top" title="Google+"></a>
     <a href="https://git.sphere.ly/groups/codename-lungo" target="_blank" class="csmb-flat csmb-round git" data-toggle="tooltip" data-placement="top" title="GIT Repo's"></a>
     <a href="http://bit.ly/cnl-donate
 " target="_blank" class="csmb-flat csmb-round paypal" data-toggle="tooltip" data-placement="top" title="Donate"></a>
