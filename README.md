@@ -1,11 +1,12 @@
 # The Codename Lungo Website #
 
-This is de Repo for the Codename Lungo website here you can see all updates and improvements to the website
+This is the Repo for the Codename Lungo website here you can see all updates and improvements to the website
 
 ### What is this repository for? ###
 
 * Quick summary
 * Version Control
+* Bug Fixing and Issue tracking
 
 ### What techniques are used? ###
 
@@ -20,8 +21,8 @@ This is de Repo for the Codename Lungo website here you can see all updates and 
 ### I want to help improving the website ###
 You can help make the website from Codename Lungo even better by
 
-* Making Issues in the issue tracker 
+* Making Issues in the issue tracker
 * Reviewing code and edit the code.
 
 ### License and other usefull information ###
-The Codename Lungo Website and logo are made by Tim Veluwenkamp and are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+The Codename Lungo Website and logo are made by Tim Veluwenkamp and are licensed under a MIT License
